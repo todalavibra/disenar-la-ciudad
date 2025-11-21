@@ -46,16 +46,4 @@ Name it CODE_OF_CONDUCT.md.
 
 Paste the first text block from above.
 
-Important: I updated the placeholder [insertar email] to todalavibra@gmail.com (or your preferred contact) in the prompt above so it's ready to use.
-
-Click Commit changes.
-
-For the second file:
-
-Repeat the process.
-
-Name it CONTRIBUTING.md.
-
-Paste the second text block.
-
 Click Commit changes.
