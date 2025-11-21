@@ -26,4 +26,4 @@ Publicar información privada de otras personas sin su permiso explícito.
 Aplicación
 Este código de conducta aplica tanto a espacios del proyecto online (GitHub, Redes) como a los encuentros presenciales y Pop-ups en la ciudad.
 
-Cualquier comportamiento abusivo o inaceptable puede ser reportado contactando al equipo organizador en todalavibra@gmail.com. Todas las quejas serán revisadas e investigadas resultando en una respuesta que se considere necesaria y apropiada a las circunstancias.
+Cualquier comportamiento abusivo o inaceptable puede ser reportado contactando al equipo organizador. Todas las quejas serán revisadas e investigadas resultando en una respuesta que se considere necesaria y apropiada a las circunstancias.
